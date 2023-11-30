@@ -24,7 +24,7 @@
 {"city" : "Cleveland",		"mascot" : "Browns",			"short" : "CLE", 	"homeText" : "FFFFFF",	"homeMain" : "311D00",	"homeSecondary" : "FF3C00",	"awayText" : "311D00",	"awayMain" : "FFFFFF",  "awaySecondary" : "FF3C00"},
 {"city" : "Pittsburgh",		"mascot" : "Steelers",	  		"short" : "PIT", 	"homeText" : "FFFFFF",	"homeMain" : "000000",	"homeSecondary" : "FFCD00",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFCD00"},
 {"city" : "Houston",      "mascot" : "Texans",	"short" : "HOU", 	"homeText" : "FFFFFF",	"homeMain" : "03202F",	"homeSecondary" : "A71930",	"awayText" : "A71930",	"awayMain" : "FFFFFF",  "awaySecondary" : "03202F"},
-{"city" : "Indianapolis",     	"mascot" : "Colts",	  		"short" : "IND", 	"homeText" : "FFFFFF",	"homeMain" : "002C5F",	"homeSecondary" : "FFFFFF",	"awayText" : "002C5F",	"awayMain" : "FFFFFF",  "awaySecondary" : "002C5F"},
+{"city" : "Indianapolis",     	"mascot" : "Colts",	  		"short" : "IND", 	"homeText" : "FFFFFF",	"homeMain" : "1429A9",	"homeSecondary" : "FFFFFF",	"awayText" : "1429A9",	"awayMain" : "FFFFFF",  "awaySecondary" : "1429A9"},
 {"city" : "Jacksonville", 	"mascot" : "Jaguars",			"short" : "JAX", 	"homeText" : "D7A22A",	"homeMain" : "1B8696",	"homeSecondary" : "000000",	"awayText" : "1B8696",	"awayMain" : "FFFFFF",  "awaySecondary" : "1B8696"},
 {"city" : "Tennessee", 	"mascot" : "Titans",		"short" : "TEN", 	"homeText" : "FFFFFF",	"homeMain" : "0C2340",	"homeSecondary" : "4B92DB",	"awayText" : "0C2340",	"awayMain" : "FFFFFF",  "awaySecondary" : "4B92DB"},
 {"city" : "Buffalo",	"mascot" : "Bills",		"short" : "BUF", 	"homeText" : "FFFFFF",	"homeMain" : "00338D",	"homeSecondary" : "C60C30",	"awayText" : "00338D",	"awayMain" : "FFFFFF",  "awaySecondary" : "C60C30"},
